@@ -1,3 +1,5 @@
+[Go Resume](https://himmetgencer.github.io/resume/)
+[button url="http://www.google.com"](https://himmetgencer.github.io/resume/)
 ```console
 root@hg:~$ whoami
 Hi, I am Himmet.
@@ -6,4 +8,3 @@ Most of my work is electronic projects.
 I create solutions and products for Structural Health Monitoring Sytems.
 Contact: himmetgencer@gmail.com
 ```
-[Go Resume](https://himmetgencer.github.io/resume/)
