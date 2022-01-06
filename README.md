@@ -1,5 +1,4 @@
-[Go Resume](https://himmetgencer.github.io/resume/)
-### <a href="https://himmetgencer.github.io/resume/">Go Resume</a> 
+### <a href="https://himmetgencer.github.io/resume/">GO RESUME</a> 
 ```console
 root@hg:~$ whoami
 Hi, I am Himmet.
